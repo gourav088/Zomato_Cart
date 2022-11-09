@@ -1,0 +1,29 @@
+img{
+    border-radius: 22px;
+}
+.img_box{
+    position: relative;
+}
+.content1{
+    position: absolute;
+    top: 207px;
+    background: rgb(37, 111, 239);
+    padding: 3px 10px;
+    color: white;
+    font-weight: 400;
+    
+    border-radius: 5px;
+
+}
+.content2{
+    position: absolute;
+    top: 207px;
+    left: 297px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 3px 10px;
+    /* color: white; */
+    font-weight: 400;
+    
+    border-radius: 5px;
+
+}
